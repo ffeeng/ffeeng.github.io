@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as n}from"./chunks/framework.CUf7xJpa.js";const t=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"business/index.md","filePath":"business/index.md"}');const r=e({name:"business/index.md"},[["render",function(e,t,r,i,a,d){return n(),s("div")}]]);export{t as __pageData,r as default};
